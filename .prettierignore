@@ -3,3 +3,6 @@ build
 coverage
 package.json
 package-lock.json
+logs
+node_modules
+dist
