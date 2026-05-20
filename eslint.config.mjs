@@ -19,6 +19,7 @@ export default defineConfig([
             "build/**/*",
             "public/**/*",
             "eslint.config.mjs",
+            "jest.config.js",
         ],
     },
     {
